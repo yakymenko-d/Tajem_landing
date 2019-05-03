@@ -1,0 +1,1 @@
+[2019-04-25 16:15:26] layer "bg3.png": Duplicate path: bg3.png
